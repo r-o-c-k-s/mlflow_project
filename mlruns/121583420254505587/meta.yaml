@@ -1,0 +1,6 @@
+artifact_location: file:///app/mlruns/121583420254505587
+creation_time: 1731946360518
+experiment_id: '121583420254505587'
+last_update_time: 1731946360518
+lifecycle_stage: active
+name: Linear Regression Demo

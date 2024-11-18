@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/121583420254505587/efe2bcac8d7e4ccc8dc7ba22c1439d99/artifacts
+end_time: 1731946363571
+entry_point_name: ''
+experiment_id: '121583420254505587'
+lifecycle_stage: active
+run_id: efe2bcac8d7e4ccc8dc7ba22c1439d99
+run_name: clean-shark-13
+run_uuid: efe2bcac8d7e4ccc8dc7ba22c1439d99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731946360949
+status: 3
+tags: []
+user_id: root
